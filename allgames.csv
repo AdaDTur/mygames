@@ -1,0 +1,193 @@
+Title,Release Year,Developer,Publisher,Genres,Price,Rating
+Half-Life,1998,Valve,Valve,FPS/Action/Sci-Fi,9.99,10/10
+Counter-Strike,2000,Valve,Valve,FPS/Tactical/Multiplayer,9.99,9/10
+Portal,2007,Valve,Valve,Puzzle/First-Person/Sci-Fi,9.99,10/10
+Portal 2,2011,Valve,Valve,Puzzle/First-Person/Sci-Fi,9.99,10/10
+Half-Life 2,2004,Valve,Valve,FPS/Action/Sci-Fi,9.99,10/10
+Team Fortress 2,2007,Valve,Valve,FPS/Multiplayer/Action,Free,9/10
+Left 4 Dead 2,2009,Valve,Valve,FPS/Co-op/Zombie,9.99,9/10
+Dota 2,2013,Valve,Valve,MOBA/Strategy/Multiplayer,Free,9/10
+The Witcher 3: Wild Hunt,2015,CD Projekt Red,CD Projekt,RPG/Open World/Fantasy,39.99,10/10
+Grand Theft Auto V,2015,Rockstar North,Rockstar Games,Action/Open World/Adventure,29.99,10/10
+Skyrim,2011,Bethesda,Bethesda,RPG/Open World/Fantasy,19.99,9/10
+Fallout 4,2015,Bethesda,Bethesda,RPG/Open World/Post-Apocalyptic,19.99,8/10
+Civilization VI,2016,Firaxis Games,2K Games,Strategy/Turn-Based/Historical,59.99,9/10
+Resident Evil 2,2019,Capcom,Capcom,Survival Horror/Action/Zombie,39.99,9/10
+Dark Souls III,2016,FromSoftware,Bandai Namco,Action RPG/Dark Fantasy/Difficult,59.99,9/10
+Sekiro: Shadows Die Twice,2019,FromSoftware,Activision,Action/Adventure/Samurai,59.99,9/10
+Elden Ring,2022,FromSoftware,Bandai Namco,Action RPG/Open World/Fantasy,59.99,10/10
+Stardew Valley,2016,ConcernedApe,ConcernedApe,Simulation/RPG/Farming,14.99,10/10
+Terraria,2011,Re-Logic,Re-Logic,Sandbox/Adventure/Platformer,9.99,10/10
+Minecraft,2011,Mojang,Mojang,Sandbox/Survival/Building,26.99,10/10
+Factorio,2020,Wube Software,Wube Software,Simulation/Strategy/Management,30.00,10/10
+Rimworld,2018,Ludeon Studios,Ludeon Studios,Simulation/Strategy/Colony,34.99,10/10
+Hollow Knight,2017,Team Cherry,Team Cherry,Metroidvania/Action/Adventure,14.99,10/10
+Dead Cells,2018,Motion Twin,Motion Twin,Roguelike/Metroidvania/Action,24.99,9/10
+Hades,2020,Supergiant Games,Supergiant Games,Roguelike/Action/Mythology,24.99,10/10
+Disco Elysium,2019,ZA/UM,ZA/UM,RPG/Detective/Isometric,39.99,10/10
+Cyberpunk 2077,2020,CD Projekt Red,CD Projekt,RPG/Open World/Sci-Fi,59.99,7/10
+Control,2019,Remedy Entertainment,505 Games,Action/Adventure/Supernatural,29.99,9/10
+Red Dead Redemption 2,2019,Rockstar Studios,Rockstar Games,Action/Adventure/Western,59.99,10/10
+Monster Hunter: World,2018,Capcom,Capcom,Action/RPG/Monster Hunting,29.99,9/10
+Monster Hunter Rise,2022,Capcom,Capcom,Action/RPG/Monster Hunting,39.99,9/10
+Divinity: Original Sin 2,2017,Larian Studios,Larian Studios,RPG/Turn-Based/Fantasy,44.99,10/10
+Baldur's Gate 3,2023,Larian Studios,Larian Studios,RPG/D&D/Fantasy,59.99,10/10
+Cities: Skylines,2015,Colossal Order,Paradox Interactive,Simulation/City Builder/Management,29.99,9/10
+Cities: Skylines II,2023,Colossal Order,Paradox Interactive,Simulation/City Builder/Management,49.99,7/10
+Euro Truck Simulator 2,2012,SCS Software,SCS Software,Simulation/Driving/Open World,19.99,10/10
+American Truck Simulator,2016,SCS Software,SCS Software,Simulation/Driving/Open World,19.99,9/10
+Crusader Kings III,2020,Paradox Development Studio,Paradox Interactive,Strategy/Simulation/Medieval,49.99,9/10
+Hearts of Iron IV,2016,Paradox Development Studio,Paradox Interactive,Strategy/War/Historical,39.99,9/10
+XCOM 2,2016,Firaxis Games,2K Games,Strategy/Turn-Based/Sci-Fi,59.99,9/10
+Kerbal Space Program,2015,Squad,Private Division,Simulation/Space/Physics,39.99,10/10
+Among Us,2018,Innersloth,Innersloth,Social Deduction/Multiplayer/Casual,4.99,9/10
+Rocket League,2015,Psyonix,Psyonix,Sports/Racing/Multiplayer,Free,9/10
+Valheim,2021,Iron Gate AB,Coffee Stain Publishing,Survival/Open World/Viking,19.99,9/10
+Phasmophobia,2020,Kinetic Games,Kinetic Games,Horror/Co-op/Investigation,13.99,9/10
+Rust,2018,Facepunch Studios,Facepunch Studios,Survival/Multiplayer/Open World,39.99,8/10
+ARK: Survival Evolved,2017,Studio Wildcard,Studio Wildcard,Survival/Open World/Dinosaurs,29.99,7/10
+Fallout: New Vegas,2010,Obsidian Entertainment,Bethesda,RPG/Open World/Post-Apocalyptic,9.99,10/10
+Fallout 3,2008,Bethesda,Bethesda,RPG/Open World/Post-Apocalyptic,9.99,9/10
+Fallout 76,2018,Bethesda,Bethesda,MMO/RPG/Post-Apocalyptic,39.99,6/10
+Subnautica,2018,Unknown Worlds Entertainment,Unknown Worlds Entertainment,Survival/Open World/Underwater,29.99,9/10
+Subnautica: Below Zero,2021,Unknown Worlds Entertainment,Unknown Worlds Entertainment,Survival/Open World/Underwater,29.99,8/10
+Satisfactory,2020,Coffee Stain Studios,Coffee Stain Publishing,Simulation/First-Person/Factory,29.99,9/10
+Stellaris,2016,Paradox Development Studio,Paradox Interactive,Strategy/Space/4X,39.99,9/10
+The Forest,2018,Endnight Games,Endnight Games,Survival/Horror/Open World,19.99,9/10
+Sons of the Forest,2023,Endnight Games,Newnight,Survival/Horror/Open World,29.99,8/10
+Oxygen Not Included,2019,Klei Entertainment,Klei Entertainment,Simulation/Strategy/Colony,24.99,9/10
+Don't Starve Together,2016,Klei Entertainment,Klei Entertainment,Survival/Multiplayer/Open World,14.99,9/10
+Project Zomboid,2013,The Indie Stone,The Indie Stone,Survival/Zombie/Open World,19.99,10/10
+Slay the Spire,2019,MegaCrit Games,MegaCrit Games,Card Game/Strategy/Roguelike,24.99,10/10
+Deep Rock Galactic,2020,Ghost Ship Games,Coffee Stain Publishing,FPS/Co-op/Mining,29.99,10/10
+Dyson Sphere Program,2021,Youthcat Studio,Gamera Game,Simulation/Factory/Space,19.99,10/10
+Death Stranding,2020,Kojima Productions,505 Games,Action/Adventure/Open World,39.99,8/10
+Metal Gear Solid V,2015,Kojima Productions,Konami,Stealth/Action/Open World,19.99,9/10
+Sea of Thieves,2020,Rare,Xbox Game Studios,Adventure/Multiplayer/Pirate,39.99,8/10
+No Man's Sky,2016,Hello Games,Hello Games,Adventure/Space/Exploration,59.99,8/10
+Mass Effect Legendary Edition,2021,BioWare,Electronic Arts,RPG/Action/Sci-Fi,59.99,9/10
+Age of Empires II: Definitive Edition,2019,Forgotten Empires,Xbox Game Studios,Strategy/RTS/Historical,19.99,10/10
+Age of Empires IV,2021,Relic Entertainment,Xbox Game Studios,Strategy/RTS/Historical,59.99,8/10
+StarCraft II,2010,Blizzard Entertainment,Blizzard Entertainment,Strategy/RTS/Sci-Fi,Free,9/10
+Warcraft III: Reforged,2020,Blizzard Entertainment,Blizzard Entertainment,Strategy/RTS/Fantasy,29.99,4/10
+Microsoft Flight Simulator,2020,Asobo Studio,Xbox Game Studios,Simulation/Flight/Open World,59.99,9/10
+Star Wars Jedi: Fallen Order,2019,Respawn Entertainment,Electronic Arts,Action/Adventure/Star Wars,39.99,9/10
+Star Wars Jedi: Survivor,2023,Respawn Entertainment,Electronic Arts,Action/Adventure/Star Wars,69.99,8/10
+Hogwarts Legacy,2023,Avalanche Software,Warner Bros.,RPG/Open World/Fantasy,59.99,8/10
+Lethal Company,2023,Zeekerss,Zeekerss,Horror/Co-op/Indie,9.99,10/10
+Palworld,2024,Pocketpair,Pocketpair,Survival/Open World/Monster Collection,29.99,8/10
+Raft,2018,Redbeet Interactive,Axolot Games,Survival/Adventure/Open World,19.99,8/10
+7 Days to Die,2013,The Fun Pimps,The Fun Pimps,Survival/Horror/Zombie,24.99,9/10
+Hunt: Showdown,2019,Crytek,Crytek,FPS/PvPvE/Horror,39.99,9/10
+Vampire Survivors,2022,poncle,poncle,Roguelike/Action/Bullet Hell,4.99,10/10
+Destiny 2,2019,Bungie,Bungie,FPS/MMO/Sci-Fi,Free,8/10
+Titanfall 2,2016,Respawn Entertainment,Electronic Arts,FPS/Action/Sci-Fi,29.99,10/10
+Apex Legends,2020,Respawn Entertainment,Electronic Arts,Battle Royale/FPS/Sci-Fi,Free,9/10
+PUBG: Battlegrounds,2017,PUBG Studios,Krafton,Battle Royale/Shooter/Survival,Free,7/10
+Inscryption,2021,Daniel Mullins Games,Devolver Digital,Card Game/Horror/Puzzle,19.99,10/10
+Undertale,2015,Toby Fox,Toby Fox,RPG/Indie/Unique,9.99,10/10
+Deltarune,2018,Toby Fox,Toby Fox,RPG/Indie/Unique,Free,9/10
+Celeste,2018,Extremely OK Games,Extremely OK Games,Platformer/Precision/Story,19.99,10/10
+Outer Wilds,2019,Mobius Digital,Annapurna Interactive,Adventure/Exploration/Space,24.99,10/10
+The Stanley Parable,2013,Galactic Cafe,Galactic Cafe,Adventure/Narrative/Experimental,14.99,10/10
+The Stanley Parable: Ultra Deluxe,2022,Crows Crows Crows,Crows Crows Crows,Adventure/Narrative/Experimental,24.99,10/10
+Garry's Mod,2006,Facepunch Studios,Valve,Sandbox/Physics/Modding,9.99,10/10
+VRChat,2017,VRChat,VRChat,Social/Virtual Reality/Multiplayer,Free,8/10
+Doki Doki Literature Club,2017,Team Salvato,Team Salvato,Visual Novel/Horror/Psychological,Free,9/10
+Sonic Mania,2017,Headcannon,SEGA,Platformer/Action/Fast-Paced,19.99,9/10
+A Plague Tale: Innocence,2019,Asobo Studio,Focus Home Interactive,Adventure/Stealth/Story,39.99,9/10
+Kingdom Come: Deliverance,2018,Warhorse Studios,Warhorse Studios,RPG/Historical/Medieval,29.99,8/10
+It Takes Two,2021,Hazelight,Electronic Arts,Co-op/Adventure/Platformer,39.99,10/10
+Sid Meier's Civilization V,2010,Firaxis Games,2K Games,Strategy/Turn-Based/Historical,29.99,9/10
+Just Cause 3,2015,Avalanche Studios,Square Enix,Action/Open World/Destruction,19.99,8/10
+Just Cause 4,2018,Avalanche Studios,Square Enix,Action/Open World/Destruction,39.99,7/10
+Spelunky 2,2020,Mossmouth,Mossmouth,Roguelike/Platformer/Adventure,19.99,10/10
+Dishonored 2,2016,Arkane Studios,Bethesda,Action/Stealth/First-Person,29.99,9/10
+Prey,2017,Arkane Studios,Bethesda,Action/RPG/Sci-Fi,29.99,9/10
+Deathloop,2021,Arkane Studios,Bethesda,Action/First-Person/Time Loop,59.99,8/10
+Bioshock Infinite,2013,Irrational Games,2K Games,FPS/Story/Alternate History,29.99,9/10
+Bioshock Remastered,2016,2K Boston,2K Games,FPS/Story/Horror,19.99,10/10
+Mount & Blade II: Bannerlord,2020,TaleWorlds Entertainment,TaleWorlds Entertainment,RPG/Strategy/Medieval,49.99,9/10
+Rainbow Six Siege,2015,Ubisoft,Ubisoft,FPS/Tactical/Multiplayer,19.99,9/10
+Fall Guys,2020,Mediatonic,Epic Games,Battle Royale/Platformer/Party,Free,8/10
+Risk of Rain 2,2020,Hopoo Games,Gearbox Publishing,Roguelike/Third-Person/Action,24.99,10/10
+Dying Light,2015,Techland,Techland,Survival/Horror/Parkour,39.99,9/10
+Dying Light 2,2022,Techland,Techland,Survival/Horror/Parkour,59.99,8/10
+Forza Horizon 5,2021,Playground Games,Xbox Game Studios,Racing/Open World/Arcade,59.99,9/10
+Forza Horizon 4,2018,Playground Games,Xbox Game Studios,Racing/Open World/Arcade,59.99,9/10
+The Binding of Isaac: Rebirth,2014,Nicalis,Nicalis,Roguelike/Action/Dungeon Crawler,14.99,10/10
+Resident Evil Village,2021,Capcom,Capcom,Survival Horror/First-Person/Action,39.99,9/10
+Resident Evil 4 Remake,2023,Capcom,Capcom,Survival Horror/Third-Person/Action,59.99,10/10
+Darkest Dungeon,2016,Red Hook Studios,Red Hook Studios,RPG/Turn-Based/Dark Fantasy,24.99,9/10
+Darkest Dungeon II,2023,Red Hook Studios,Red Hook Studios,RPG/Turn-Based/Dark Fantasy,39.99,8/10
+Path of Exile,2013,Grinding Gear Games,Grinding Gear Games,ARPG/Multiplayer/Free to Play,Free,9/10
+Diablo IV,2023,Blizzard Entertainment,Blizzard Entertainment,ARPG/Multiplayer/Dark Fantasy,69.99,7/10
+Frostpunk,2018,11 bit studios,11 bit studios,Survival/Strategy/Management,29.99,9/10
+Frostpunk 2,2024,11 bit studios,11 bit studios,Survival/Strategy/Management,44.99,8/10
+God of War,2022,Santa Monica Studio,PlayStation PC LLC,Action/Adventure/Mythology,49.99,10/10
+Days Gone,2021,Bend Studio,PlayStation PC LLC,Action/Adventure/Zombie,49.99,8/10
+GTFO,2021,10 Chambers Collective,10 Chambers Collective,FPS/Horror/Co-op,39.99,9/10
+Ghostwire: Tokyo,2022,Tango Gameworks,Bethesda,Action/Adventure/Supernatural,59.99,7/10
+Warhammer: Vermintide 2,2018,Fatshark,Fatshark,FPS/Co-op/Dark Fantasy,29.99,9/10
+Warhammer 40000: Darktide,2022,Fatshark,Fatshark,FPS/Co-op/Sci-Fi,39.99,7/10
+Total War: Warhammer III,2022,Creative Assembly,SEGA,Strategy/RTS/Fantasy,59.99,8/10
+The Sims 4,2014,Maxis,Electronic Arts,Simulation/Life Sim/Building,Free,8/10
+Planet Zoo,2019,Frontier Developments,Frontier Developments,Simulation/Management/Animals,44.99,9/10
+Planet Coaster,2016,Frontier Developments,Frontier Developments,Simulation/Management/Theme Park,44.99,9/10
+Return of the Obra Dinn,2018,Lucas Pope,Lucas Pope,Adventure/Puzzle/Mystery,19.99,10/10
+Persona 5 Royal,2022,Atlus,SEGA,JRPG/Social Sim/Turn-Based,59.99,10/10
+Persona 4 Golden,2020,Atlus,SEGA,JRPG/Social Sim/Turn-Based,19.99,10/10
+Final Fantasy XIV Online,2013,Square Enix,Square Enix,MMORPG/Fantasy/Story,19.99,9/10
+Final Fantasy VII Remake,2022,Square Enix,Square Enix,RPG/Action/Sci-Fi Fantasy,69.99,9/10
+Yakuza: Like a Dragon,2020,Ryu Ga Gotoku Studio,SEGA,RPG/Turn-Based/Action,59.99,9/10
+Like a Dragon: Infinite Wealth,2024,Ryu Ga Gotoku Studio,SEGA,RPG/Turn-Based/Action,69.99,9/10
+Mass Effect: Andromeda,2017,BioWare,Electronic Arts,RPG/Action/Sci-Fi,39.99,6/10
+Dragon Age: Inquisition,2014,BioWare,Electronic Arts,RPG/Fantasy/Action,39.99,8/10
+Star Citizen,2014,Cloud Imperium Games,Cloud Imperium Games,Space Sim/Open World/MMO,45.00,7/10
+Back 4 Blood,2021,Turtle Rock Studios,Warner Bros.,FPS/Co-op/Zombie,59.99,7/10
+The Quarry,2022,Supermassive Games,2K Games,Horror/Interactive Movie/Teen,59.99,8/10
+Chivalry 2,2021,Torn Banner Studios,Tripwire Interactive,Action/Medieval/Multiplayer,39.99,9/10
+Mordhau,2019,Triternion,Triternion,Action/Medieval/Multiplayer,29.99,8/10
+Horizon Zero Dawn,2020,Guerrilla Games,PlayStation PC LLC,Action/Adventure/Open World,49.99,9/10
+Marvel's Spider-Man Remastered,2022,Insomniac Games,PlayStation PC LLC,Action/Adventure/Superhero,59.99,9/10
+Marvel's Spider-Man: Miles Morales,2022,Insomniac Games,PlayStation PC LLC,Action/Adventure/Superhero,49.99,8/10
+Call of Duty: Modern Warfare II,2022,Infinity Ward,Activision,FPS/Action/Multiplayer,69.99,7/10
+Call of Duty: Black Ops Cold War,2020,Treyarch,Activision,FPS/Action/Multiplayer,59.99,7/10
+Doom Eternal,2020,id Software,Bethesda,FPS/Action/Fast-Paced,39.99,9/10
+Doom,2016,id Software,Bethesda,FPS/Action/Fast-Paced,19.99,9/10
+Hitman 3,2021,IO Interactive,IO Interactive,Stealth/Action/Sandbox,59.99,9/10
+Tiny Tina's Wonderlands,2022,Gearbox Software,2K Games,FPS/RPG/Fantasy,59.99,8/10
+Borderlands 3,2019,Gearbox Software,2K Games,FPS/RPG/Open World,59.99,8/10
+Warhammer 40000: Space Marine 2,2024,Saber Interactive,Focus Entertainment,Action/Third-Person/Sci-Fi,59.99,8/10
+Pizza Tower,2023,Tour de Pizza,Tour de Pizza,Platformer/Fast-Paced/Humor,19.99,9/10
+Core Keeper,2022,Pugstorm,Fireshine Games,Survival/Adventure/Sandbox,12.99,8/10
+Enshrouded,2024,Keen Games,Keen Games,Survival/Action RPG/Open World,29.99,8/10
+Ready or Not,2021,VOID Interactive,VOID Interactive,FPS/Tactical/Realistic,39.99,9/10
+Terraria,2011,Re-Logic,Re-Logic,Sandbox/Adventure/Exploration,9.99,10/10
+Human Fall Flat,2016,No Brakes Games,Curve Digital,Puzzle/Physics/Co-op,19.99,9/10
+BeamNG.drive,2015,BeamNG,BeamNG,Simulation/Driving/Physics,24.99,10/10
+Tabletop Simulator,2015,Berserk Games,Berserk Games,Simulation/Board Games/Multiplayer,19.99,9/10
+Football Manager 2024,2023,Sports Interactive,SEGA,Sports/Management/Simulation,59.99,9/10
+Crusader Kings II,2012,Paradox Development Studio,Paradox Interactive,Strategy/Grand Strategy/Medieval,Free,9/10
+Europa Universalis IV,2013,Paradox Development Studio,Paradox Interactive,Strategy/Grand Strategy/Historical,39.99,9/10
+Victoria 3,2022,Paradox Development Studio,Paradox Interactive,Strategy/Grand Strategy/Historical,49.99,8/10
+Marvel's Midnight Suns,2022,Firaxis Games,2K Games,Strategy/Turn-Based/Superhero,59.99,8/10
+Total War: Three Kingdoms,2019,Creative Assembly,SEGA,Strategy/RTS/Historical,59.99,8/10
+V Rising,2022,Stunlock Studios,Stunlock Studios,Survival/Action/Vampire,19.99,8/10
+Valheim,2021,Iron Gate AB,Coffee Stain Publishing,Survival/Viking/Open World,19.99,9/10
+Escape from Tarkov,2017,Battlestate Games,Battlestate Games,FPS/Hardcore/Survival,44.99,8/10
+MultiVersus,2022,Player First Games,Warner Bros.,Fighting/Platform Fighter/Free to Play,Free,7/10
+Street Fighter 6,2023,Capcom,Capcom,Fighting/Arcade/Competitive,59.99,9/10
+Tekken 8,2024,Bandai Namco,Bandai Namco,Fighting/3D/Competitive,69.99,9/10
+Mortal Kombat 1,2023,NetherRealm Studios,Warner Bros.,Fighting/Gore/Competitive,69.99,8/10
+Cult of the Lamb,2022,Massive Monster,Devolver Digital,Roguelike/Management/Cult,24.99,9/10
+Total War: Shogun 2,2011,Creative Assembly,SEGA,Strategy/RTS/Historical,29.99,9/10
+Gunfire Reborn,2021,Duoyi Games,505 Games,FPS/Roguelike/Co-op,19.99,9/10
+Slime Rancher 2,2022,Monomi Park,Monomi Park,Adventure/Simulation/Cute,29.99,8/10
+Dave the Diver,2023,MINTROCKET,MINTROCKET,Adventure/Simulation/Underwater,19.99,9/10
+Dredge,2023,Black Salt Games,Team17,Fishing/Horror/Adventure,24.99,9/10
+Baldur's Gate 1 & 2: Enhanced Edition,2013,Beamdog,Beamdog,RPG/D&D/Fantasy,19.99,9/10
+Dead Space Remake,2023,Motive Studio,Electronic Arts,Survival Horror/Sci-Fi/Action,59.99,9/10
+Assassin's Creed Valhalla,2020,Ubisoft Montreal,Ubisoft,Action/RPG/Open World,59.99,8/10
+Gears 5,2019,The Coalition,Xbox Game Studios,Third-Person Shooter/Action/Sci-Fi,39.99,8/10
+Helldivers 2,2024,Arrowhead Game Studios,PlayStation PC LLC,Shooter/Co-op/Sci-Fi,39.99,9/10
